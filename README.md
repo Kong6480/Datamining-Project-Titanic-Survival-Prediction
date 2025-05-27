@@ -261,7 +261,7 @@ This repository is organized as follows:
 ├── Datamining_project.ipynb       # Main Jupyter Notebook containing the modeling process
 └── README.md                      # This file (project summary and structure)
 ```
-
+Due to its large size (38MB), the project PPT file was submitted separately and is not included in this repository. 
 ---
 
 #### Contact and Further Information
