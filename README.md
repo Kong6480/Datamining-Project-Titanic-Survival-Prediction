@@ -242,23 +242,25 @@ In conclusion, this project illustrates how thoughtful preprocessing, methodical
 
 This repository is organized as follows:
 
-├── data-All data-related resources
-│  ├── raw_data---Original Titanic datasets (train.xls, test.xls)
-│  ├── processed_data---reprocessed datasets (train_processed.xls, test_processed.xls)
-│  ├── predictions---Model prediction outputs (logistic_regression_predictions.xls, etc.)
-│  └── submissions--- Kaggle submission files (logistic_regression_submission.xls, etc.)
+```
+├── data/                          # All data-related resources
+│   ├── raw_data/                  # Original Titanic datasets (train.xls, test.xls)
+│   ├── processed_data/            # Reprocessed datasets (train_processed.xls, test_processed.xls)
+│   ├── predictions/               # Model prediction outputs (logistic_regression_predictions.xls, etc.)
+│   └── submissions/               # Kaggle submission files (logistic_regression_submission.xls, etc.)
 
-├── images-All visualizations used in the project report
-│  ├── part1---Visualizations for Part 1 (e.g., EDA)
-│  ├── part2---Visualizations for Part 2 (e.g., feature engineering)
-│  ├── part3---Visualizations for Part 3 (e.g., Logistic Regression)
-│  ├── part4---Visualizations for Part 4 (e.g., Random Forest)
-│  ├── part5---Visualizations for Part 5 (e.g., XGBoost)
-│  ├── part6---Visualizations for Part 6 (e.g., Stacking Ensemble)
-│  └── part7---Visualizations for Part 7 (e.g., model comparison summary)
+├── images/                        # All visualizations used in the project report
+│   ├── part1/                     # Visualizations for Part 1 (e.g., EDA)
+│   ├── part2/                     # Visualizations for Part 2 (e.g., feature engineering)
+│   ├── part3/                     # Visualizations for Part 3 (e.g., Logistic Regression)
+│   ├── part4/                     # Visualizations for Part 4 (e.g., Random Forest)
+│   ├── part5/                     # Visualizations for Part 5 (e.g., XGBoost)
+│   ├── part6/                     # Visualizations for Part 6 (e.g., Stacking Ensemble)
+│   └── part7/                     # Visualizations for Part 7 (e.g., model comparison summary)
 
-├── Datamining_project.ipynb # Main Jupyter Notebook containing the modeling process
-├── README.md # This file (project summary and structure)
+├── Datamining_project.ipynb       # Main Jupyter Notebook containing the modeling process
+└── README.md                      # This file (project summary and structure)
+```
 
 ---
 
